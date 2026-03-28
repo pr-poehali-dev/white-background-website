@@ -38,8 +38,8 @@ const Index = () => {
       {/* Hero */}
       <section className="max-w-2xl mx-auto px-6 pt-32 pb-32 animate-fade-in-up flex flex-col items-center justify-center min-h-[80vh] gap-10">
         <h1 className="font-display text-6xl md:text-8xl font-light text-gray-900 leading-tight text-center">
-          Юля,<br />
-          <span className="italic">я люблю тебя ❤️</span>
+          кент хвали,<br />
+          <span className="italic">Юля люби ❤️</span>
         </h1>
 
         {/* Input */}
