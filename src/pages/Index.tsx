@@ -92,8 +92,8 @@ const Index = () => {
       <section className="max-w-4xl mx-auto px-6 pt-20 pb-16 animate-fade-in-up">
         <p className="text-xs tracking-widest text-gray-400 uppercase mb-4">Издание о культуре и тексте</p>
         <h1 className="font-display text-6xl md:text-7xl font-light text-gray-900 leading-tight mb-6">
-          Слова,<br />
-          <span className="italic">которые остаются</span>
+          Юля,<br />
+          <span className="italic">я люблю тебя ❤️</span>
         </h1>
         <p className="text-gray-500 text-base font-light max-w-lg leading-relaxed">
           Статьи о культуре, искусстве и людях — без спешки и лишнего шума.
